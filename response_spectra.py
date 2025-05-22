@@ -1,5 +1,6 @@
 import numpy as np
 from settings import *
+import opsvis as opsv
 
 Tn = list(np.arange(0, 6, 0.05))
 
